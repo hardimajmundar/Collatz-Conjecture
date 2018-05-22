@@ -1,1 +1,6 @@
 C:\Users\dhshah\Documents\Hardi\App\Application1\Application1\bin\Debug\Application1.exe.config
+C:\Users\dhshah\Documents\Hardi\App\Application1\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+C:\Users\dhshah\Documents\Hardi\App\Application1\Application1\bin\Debug\Application1.exe
+C:\Users\dhshah\Documents\Hardi\App\Application1\Application1\bin\Debug\Application1.pdb
+C:\Users\dhshah\Documents\Hardi\App\Application1\Application1\obj\Debug\Application1.exe
+C:\Users\dhshah\Documents\Hardi\App\Application1\Application1\obj\Debug\Application1.pdb
